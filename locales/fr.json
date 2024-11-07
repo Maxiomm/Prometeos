@@ -1,0 +1,17 @@
+{
+  "search": "Rechercher",
+  "favorites": "Favoris",
+  "settings": "Paramètres",
+
+  "noFavorites": "Aucune ville en favoris pour le moment.",
+  "resetFavorites": "Réinitialiser les Favoris",
+
+  "placeholderCityInput": "Recherchez une ville",
+
+  "pleaseEnterCity": "Veuillez entrer une ville valide.",
+  "errorCityCheck": "Erreur lors de la vérification de la ville.",
+  "cityNotFound": "Ville introuvable. Veuillez réessayer.",
+
+  "changeLanguage": "Changer de langue :",
+  "defaultTemperatureUnit": "Température par défaut :"
+}

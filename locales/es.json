@@ -1,0 +1,17 @@
+{
+  "search": "Buscar",
+  "favorites": "Favoritos",
+  "settings": "Configuración",
+
+  "noFavorites": "No hay ciudades en favoritos por el momento.",
+  "resetFavorites": "Restablecer Favoritos",
+
+  "placeholderCityInput": "Busca una ciudad",
+
+  "pleaseEnterCity": "Por favor, introduce una ciudad válida.",
+  "errorCityCheck": "Error al verificar la ciudad.",
+  "cityNotFound": "Ciudad no encontrada. Por favor, inténtalo de nuevo.",
+
+  "changeLanguage": "Cambiar idioma :",
+  "defaultTemperatureUnit": "Temperatura predeterminada :"
+}
